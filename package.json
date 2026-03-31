@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "e": "^0.2.33",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.3"
+  },
+  "name": "u5l6-restaurant-lab-ahmedd4566",
+  "version": "1.0.0",
+  "description": "- Task 1: Server setup [1 pt] - Task 2: Schema [2 pts] - Task 3: Model [1 pt] - Task 4: POST test item [2 pts] - Task 5: GET all [2 pts] - Task 6: GET value [2 pts] - Task 7: POST new item [2 pts]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Comp-Sci-High/u5l6-restaurant-lab-ahmedd4566.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Comp-Sci-High/u5l6-restaurant-lab-ahmedd4566/issues"
+  },
+  "homepage": "https://github.com/Comp-Sci-High/u5l6-restaurant-lab-ahmedd4566#readme"
+}
